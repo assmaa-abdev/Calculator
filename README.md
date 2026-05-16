@@ -11,11 +11,11 @@ A simple calculator app built with HTML, CSS and JavaScript.
 - JavaScript
 
 ## Project Structure
-'''
+```
 Calculator/
 ├── css/
 │   └── styles.css
 ├── javascript/
 │   └── script.js
 └──index.html
-'''
+```
